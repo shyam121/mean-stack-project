@@ -1,0 +1,29 @@
+{
+  "name": "pronew",
+  "version": "1.0.0",
+  "description": "mean stack project demo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shyam121/mean-stack-project.git"
+  },
+  "keywords": [
+    "MEAN",
+    "STACK",
+    "APPLICATION"
+  ],
+  "author": "shyam kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shyam121/mean-stack-project/issues"
+  },
+  "homepage": "https://github.com/shyam121/mean-stack-project#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.18.9"
+  }
+}
